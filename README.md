@@ -1,9 +1,8 @@
 ## Olá! Sou Engels Eduardo
 
 - 👨‍💻 Hoje trabalho com back-end  
-- 📕 Estudo Java  
+- 📕 Estudo Java e Python
 - 📩 Contate no e-mail   engelsedujob@gmail.com  
-- 😄 Pronomes: ele/dele 
 - 💻 Experiência com Redes de computadores 
 
 ---
