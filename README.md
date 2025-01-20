@@ -3,7 +3,8 @@
 - 👨‍💻 Hoje trabalho com back-end  
 - 📕 Estudo Java e Python
 - 📩 Contate no e-mail   engelsedujob@gmail.com  
-- 💻 Experiência com Redes de computadores 
+- 💻 Experiência com Redes de computadores
+- Linkedin https://www.linkedin.com/in/engels-cenci/
 
 ---
 
